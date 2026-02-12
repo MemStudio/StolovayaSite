@@ -15,7 +15,7 @@ def home():
     <title>Title</title>
 </head>
 <body>
-<h1> Пока<h1>
+<h1> привет мир<h1>
 </body>
 </html>"""
 
